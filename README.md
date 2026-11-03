@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Manager
 
 A Laravel 12 product-management application with a public e-commerce storefront, session-based admin registration and login, a dashboard, searchable and filterable product CRUD, category and branch lookups, and publicly accessible product images stored on Laravel's public disk.
@@ -60,3 +61,7 @@ Run the feature tests with:
 ```powershell
 php artisan test
 ```
+=======
+# laravel-interview-assessment
+Laravel Interview Task Submission
+>>>>>>> a634b0727452434b6ad7789de73b93d896aa5fda
